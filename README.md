@@ -8,3 +8,7 @@ This example use:
 - And [Vue.js](https://vuejs.org/). 💚
 
 Hope help you to create stunning custom checkboxes. 🥰
+
+## Demo
+
+⚡ StackBlitz demo [here](https://stackblitz.com/fork/github/robdvins/dona-custom-checkox?file=src/App.vue).
