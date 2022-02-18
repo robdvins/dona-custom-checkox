@@ -53,7 +53,7 @@ async function toggleCheck() {
       </svg>
 
       <p class="relative ml-1 mb-0.5 select-none text-sm">
-        Dona like custom checkbox
+        No verás todo a menos que lo veas desde afuera.
         <span ref="line" class="invisible absolute -left-3 top-2.5 h-0.5 w-5 scale-y-[1.5] rounded-full bg-gray-800"></span>
       </p>
     </label>
