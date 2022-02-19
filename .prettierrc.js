@@ -3,6 +3,6 @@ module.exports = {
   printWidth: 110,
   singleQuote: true,
   trailingComma: 'none',
-  overrides: [{ files: '*.vue', options: { printWidth: 99999 } }],
+  overrides: [{ files: '*.vue', options: { printWidth: 500 } }],
   plugins: [require('prettier-plugin-tailwindcss')]
 }
